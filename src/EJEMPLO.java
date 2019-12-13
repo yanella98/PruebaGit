@@ -28,7 +28,7 @@ public class EJEMPLO {
 		System.out.println(total);
 	}
 	
-	public static void elevado(){
+	public static void Nelevado(){
 		int numero1 = 4;
 		int numero2 = 10;
 		int total = (int) Math.pow(numero1, numero2);
@@ -41,7 +41,7 @@ public class EJEMPLO {
 		resta();
 		multiplicacion();
 		division();
-		elevado();
+		Nelevado();
 	}
 
 }
